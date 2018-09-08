@@ -1,4 +1,4 @@
-# AhMyth Android Rat
+# Secure!!
 ###### Beta Version
 It consists of two parts :
 * Server side : desktop application based on electron framework (control panel)
